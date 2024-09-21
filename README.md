@@ -6,5 +6,4 @@ This project implements a delivery route optimization solution using Python, lev
 
 # Acknowledgments
 SyntaxByte-https://www.youtube.com/watch?v=OOCvhc0k1R4&list=LL&index=1 
-
 GIScience Research Group and HeiGIT-https://github.com/GIScience/openrouteservice-examples/blob/master/python/Routing_Optimization_Idai.ipynb
