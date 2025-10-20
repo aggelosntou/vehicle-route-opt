@@ -1,4 +1,4 @@
-# 🚚 Vehicle Route Optimization with OpenRouteService
+# Vehicle Route Optimization with OpenRouteService
 
 ## 📑 Overview
 This project explores the **Vehicle Routing Problem (VRP)**: how to assign and sequence delivery points efficiently to minimize travel cost.  
@@ -6,7 +6,7 @@ Using **OpenRouteService (ORS)** for routing and **Folium** for interactive visu
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Parse delivery addresses from a structured dataset (Excel).  
 - Compute feasible delivery routes given constraints (vehicle/day).  
 - Visualize optimized routes on interactive maps.  
@@ -14,7 +14,7 @@ Using **OpenRouteService (ORS)** for routing and **Folium** for interactive visu
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 1. **Data Input**  
    - Delivery points are read from `Interview_Programmers_OptiSolio.xlsx`.  
    - Each point has latitude/longitude and metadata.  
@@ -33,7 +33,7 @@ Using **OpenRouteService (ORS)** for routing and **Folium** for interactive visu
 
 ---
 
-## 📊 Results
+## Results
 
 ### Example Delivery Points
 <p align="center">
