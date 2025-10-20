@@ -1,6 +1,6 @@
 # Vehicle Route Optimization with OpenRouteService
 
-## 📑 Overview
+## Overview
 This project explores the **Vehicle Routing Problem (VRP)**: how to assign and sequence delivery points efficiently to minimize travel cost.  
 Using **OpenRouteService (ORS)** for routing and **Folium** for interactive visualization, we demonstrate how optimization techniques can improve logistics in an urban setting.
 
